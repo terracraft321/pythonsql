@@ -21,3 +21,4 @@ This repository contains a collection of Python scripts. Below is a brief descri
 - **sadthatidontremember.py**: Similar to "idontremember1.py", the name suggests uncertainty about the script's purpose.
 - **testikeskiarvo.py**: The purpose of this script is unclear without translation or additional context.
 - **yee.py**: The name does not provide much insight into the script's functionality; it could relate to anything without further details.
+- **bank.py**: Banking application
